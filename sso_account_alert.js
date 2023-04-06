@@ -7,6 +7,7 @@
 // @match        https://*.console.aws.amazon.com/*
 // @grant        none
 // ==/UserScript==
+// https://github.com/mhlabs/aws-console-tampermonkey
 
 (function() {
   "use strict";
@@ -60,6 +61,6 @@ function intToRGB(i) {
 }
 
 var accountMap = {
-  "033596421499": "Dotse",
+  "8675309": "Jenny",
   "123": "foo"
 };
